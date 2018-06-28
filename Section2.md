@@ -19,3 +19,7 @@ this set is called an event
 ![equation](https://latex.codecogs.com/gif.latex?Pr%28A_%7B1%7D%20%5Ccup%20A_%7B2%7D%29%20%5Cleq%20Pr%5BA_%7B1%7D%5D%20&plus;%20Pr%5BA_%7B2%7D%5D)
 
 ![](https://latex.codecogs.com/gif.latex?Pr%28A_%7B1%7D%20%5Ccup%20A_%7B2%7D%29%20%3D%20Pr%5BA_%7B1%7D%5D%20&plus;%20Pr%5BA_%7B2%7D%5D%20-%20Pr%28A_%7B1%7D%20%5Ccap%20A_%7B2%7D%29)
+
+
+## random variable
+[good video](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables)
