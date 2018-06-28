@@ -23,3 +23,12 @@ this set is called an event
 
 ## random variable
 [good video](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables)
+
+
+## independence
+
+Event A and Event B are independent if **Pr[A and B] = P[A].P[B]**
+
+## the birthday paradox
+
+let ![](https://latex.codecogs.com/gif.latex?r_%7B1%7D%2C...%2Cr_%7Bn%7D%20%5Cin%20%5Ccup) be indep identically distributed radnom vars when ![](https://latex.codecogs.com/gif.latex?n%20%3D%201.2%20*%20%5Cleft%7C%5Ccup%5Cright%20%7C%5E%7B1/2%7D%20then%20Pr%5B%5Cexists%20i%5Cneq%20j%3A%20r_%7Bi%7D%20%3D%20r_%7Bj%7D%5D%20%5Cgeq%20%7B1/2%7D)
